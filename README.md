@@ -1,6 +1,8 @@
 # AOC-2022
 Advent of code solutions for the 2022 competition year.
 
+https://adventofcode.com/2022
+
 | Challenge                  | Language | Result |
 | -------------------------- | -------- | ------ |
 | [day-01](solutions/day-01) | Python3  | ⭐⭐    |
