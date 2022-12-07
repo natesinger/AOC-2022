@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MacOS
+.DS_STORE
+
+# day 7 directories
+solutions/day-07/puzzle_40358913
+
