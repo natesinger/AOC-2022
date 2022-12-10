@@ -14,7 +14,7 @@ https://adventofcode.com/2022
 | [day-07](solutions/day-07) | Python3  | ⭐⭐    |
 | [day-08](solutions/day-08) | Python3  | ⭐⭐    |
 | [day-09](solutions/day-09) | Python3  | ⭐⭐    |
-| [day-10](solutions/day-10) | - | - |
+| [day-10](solutions/day-10) | Python3  | ⭐⭐    |
 | [day-11](solutions/day-11) | - | - |
 | [day-12](solutions/day-12) | - | - |
 | [day-13](solutions/day-13) | - | - |
