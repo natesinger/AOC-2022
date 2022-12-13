@@ -17,7 +17,7 @@ https://adventofcode.com/2022
 | [day-10](solutions/day-10) | Python3  | ⭐⭐    |  |
 | [day-11](solutions/day-11) | Python3  | ⭐⭐    |  |
 | [day-12](solutions/day-12) | Python3  | ⭐⭐    | https://www.youtube.com/watch?v=oDqjPvD54Ss |
-| [day-13](solutions/day-13) | - | - |  |
+| [day-13](solutions/day-13) | Python3  | ⭐      | Recusive function calls... need to refactor...
 | [day-14](solutions/day-14) | - | - |  |
 | [day-15](solutions/day-15) | - | - |  |
 | [day-16](solutions/day-16) | - | - |  |
